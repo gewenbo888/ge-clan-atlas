@@ -19,7 +19,7 @@ A structured atlas of the Chinese surname 戈 (Ge): origin, dynastic timeline, m
 - **Evidence-grade tagging** (strong evidence · plausible reconstruction · documented · traditional account)
 - **戈 vs 葛 disambiguation** built into the figures and comparison modules — explicit, not hand-wavy
 - **Classical ink-wash aesthetic** — gold + vermilion + jade on deep ink; Noto Serif SC + EB Garamond + JetBrains Mono
-- **Personal note**: built by Gewenbo (戈文博), bearer of the Jiangsu branch lineage. Gewenbo appears as one of the contemporary figures.
+- **Personal note**: built by Gewenbo (戈文波), bearer of the Jiangsu branch lineage. Gewenbo appears as one of the contemporary figures.
 
 ## Stack
 
